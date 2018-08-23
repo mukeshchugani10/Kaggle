@@ -4,5 +4,5 @@ Following are the Kaggle links for the respective notebooks.
 ## Titanic
 https://www.kaggle.com/c/titanic
 
-## MNIST
+## Digit Recognizer
 https://www.kaggle.com/c/digit-recognizer
